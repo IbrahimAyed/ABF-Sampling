@@ -1,0 +1,2 @@
+# ABF-Sampling
+This repository contains the code and report for a school research project done under the supervision of Tony Lelièvre. This work was a joint project with Louis Diouf and Jeremy O'Byrne. The code allows to experiment some numerical properties of the Adaptive Biasing Force sampling methods in Statistical Physics while the report elaborates more on the theoretical analysis of the algortihms. All is in French (sorry for that !) but the code should be explicit enough (anyone having some time to translate is welcome ;) ) even though a little bit messy.
